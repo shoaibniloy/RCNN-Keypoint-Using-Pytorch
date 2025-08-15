@@ -30,10 +30,3 @@ To run the jupyter notebook, open it in a Jupyter console and run cells sequenti
 ## Human Pose Estimation Output
 
 ![](./output/skeleton-img.jpg)
-
-
-
-Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start.
-
-[![img](https://learnopencv.com/wp-content/uploads/2023/01/AI-Courses-By-OpenCV-Github.png)](https://opencv.org/courses/)
-
